@@ -1,0 +1,29 @@
+.CompanyAdded {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    width: 130vh;
+    height: 40vh;
+}
+
+.content {
+    text-align: center;
+}
+
+.homeButton {
+    margin-top: 20px;
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.homeButton:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}

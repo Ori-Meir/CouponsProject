@@ -1,0 +1,11 @@
+.Header {
+    display: grid;
+    grid-template-columns: 70% 15% 15%;
+    padding: 10px;
+}
+
+.HeadLine {
+    color: #070301;
+    text-align: center;
+    text-decoration: underline;
+}

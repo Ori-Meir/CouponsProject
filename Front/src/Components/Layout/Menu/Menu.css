@@ -1,0 +1,16 @@
+.Menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    background-color: #31a6850c;
+    color: #333;
+  }
+  
+  .Menu a {
+    text-decoration: none;
+    color: #291a1a;
+    text-align: center;
+  }
+  
